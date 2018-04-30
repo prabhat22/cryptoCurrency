@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+#section_1 table
+{
+  border: 1px solid black;
+}
+#section_1 table tr 
+{
+    border-bottom: 1px solid #DDDDDD;
+    background-color: #FBFBFB;
+}
+#section_1 table tr td
+{
+    border-left: 1px solid #DDDDDD;
+}
+#row1  td a{
+    color: black;
+    text-align: center;
+}
+#section_1 table span 
+{
+    padding: 5px;
+    line-height: 40px;
+    text-align: center;
+    
+}
+.red
+{
+    color: red;
+
+}
+.green 
+{
+    color: green;
+}
+.modal-body p
+{
+    color: black !important;
+}
